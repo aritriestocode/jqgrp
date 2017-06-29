@@ -15,3 +15,8 @@ section {
 		border: 2px solid blue;
 		width: 900px;
 	}
+
+	.intro{
+		font-size: 20px;
+		color: yellow
+	}
